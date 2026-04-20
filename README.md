@@ -1,7 +1,5 @@
 # SpringBoot 项目初始模板
 
-> 作者：[程序员冷颜](https://github.com/lenyanjgk)
-> 仅分享于 [冷颜学习](https://blog.csdn.net/jgk666666)
 
 基于 Java SpringBoot 的项目初始模板，整合了常用框架和主流业务的示例代码。
 
